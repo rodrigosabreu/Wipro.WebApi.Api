@@ -14,7 +14,7 @@ Put de moedas para a fila
 
 http://localhost:5000/fila/AddItemFila
 
-Get útima moeda da fila
+Get útima moeda da fila e exclusão da mesma
 
 http://localhost:5000/fila/GetItemFila
 
