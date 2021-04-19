@@ -25,7 +25,7 @@ Projeto: Wipro.Cotacao
 
 Url de geração dos arquivos: /Wipro.Cotacao
 
-############# Depedencias #############
+############# Dependências #############
 
 Wipro.DAL > Dapper 1.50.5
 
