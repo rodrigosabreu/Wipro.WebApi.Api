@@ -43,7 +43,7 @@ Como executar aplicação:
 
 4)Selecionar o projeto Wipro.WebApi.Api e executar (Ctrl+F5), e aparecerá um prompt de comando informando a url e porta
 
-5)Colocar ar quivos csv´s de entrada no diretorio do projeto /Wipro.Console
+5)Colocar os arquivos csv´s de entrada no diretorio do projeto /Wipro.Console
 
 6)Selecionar o projeto Wipro.Console e executar (Ctrl+F5), e aparecerá um prompt de comando informando a url e porta
 
