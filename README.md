@@ -45,6 +45,6 @@ Como executar aplicação:
 
 5)Colocar os arquivos csv´s de entrada no diretorio do projeto /Wipro.Console
 
-6)Selecionar o projeto Wipro.Console e executar (Ctrl+F5), e aparecerá um prompt de comando informando a url e porta
+6)Selecionar o projeto Wipro.Console e executar (Ctrl+F5), e aparecerá um prompt de comando com dados de processamento e temp
 
 7)Os aquivos de saida serão gerados no diretorio do projeto /Wipro.Console
